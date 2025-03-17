@@ -1,12 +1,20 @@
-- 👋 Olá me chamo William Martins
+Quem sou eu?
 
-- 👀 Atualmente busco migrar para setor de desenvolvimento de software
+    👋 Olá me chamo William Martins
 
-- 🌱 Eu atualmente estou aprendeendo JAVA Orientado a Objetos
+Meu objetivo!
 
-- 📫 voce pode me encontrar via Linkedin(https://www.linkedin.com/in/william-martins-a2961a211/)
+    👀 Atualmente busco migrar efetivamente para a area de TI
 
-<!---
-william2066/william2066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu apreendizado
+
+    🌱 Eu atualmente estou com apreendizado focado na area de redes de computadores
+    🌱 Já tenho ampla experiencia na area de implementação de sistemas relacionados a area de redes e demais (cftv - automação IOT - controle de acesso - cabeamento estruturado)
+
+Minha formação
+
+    📓 Tecnico em sistemas para internet
+
+Quer saber mais sobre min?
+
+    📫 Você pode me encontrar no meu Linkedin(https://www.linkedin.com/in/william-martins-a2961a211/) 
