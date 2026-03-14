@@ -4,7 +4,7 @@ Quem sou eu?
 
 Meu objetivo!
 
-    👀 Atualmente busco migrar efetivamente para a area de TI
+    👀 Atualmente busco migrar efetivamente para a area de TI (Cibersegurança e afins)
 
 Meu apreendizado
 
