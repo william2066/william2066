@@ -8,7 +8,7 @@ Meu objetivo!
 
 Meu apreendizado
 
-    🌱 Eu atualmente estou com apreendizado focado na area de redes de computadores e cibersegunrança
+    🌱 Eu atualmente estou com apreendizado focado na area de cibersegunrança
     🌱 Já tenho ampla experiencia na area de implementação de sistemas relacionados a area de redes e demais (cftv - automação IOT - controle de acesso - cabeamento estruturado)
 
 Minha formação
